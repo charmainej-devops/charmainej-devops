@@ -8,7 +8,7 @@ Transitioning from traditional infrastructure to modern DevOps practices with 5+
 
 - ☁️ **Cloud Infrastructure:** AWS (EC2, S3, RDS, VPC, CloudWatch) - 5+ years
 - 🖥️ **Systems Administration:** Linux, Windows Server, VMware - Production scale
-- 📊 **Monitoring & Reliability:** Achieved 99.9% uptime for 1000+ users
+- 📊 **Monitoring & Reliability:** Achieved 99.9% uptime for 500+ users
 - 🔄 **Migration Experience:** Led 50+ server migrations to AWS
 
 ### 📚 Currently Learning
